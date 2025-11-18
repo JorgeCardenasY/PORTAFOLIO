@@ -16,11 +16,11 @@ Aquí le presento algunos de los proyectos en los que he trabajado y de los que 
 
 *   **Web HTML para la promoción de Hoteles de Cliente de Arica**
     *   Este proyecto es un desarrollo en HTMl, el cual Landing page que permite redirigirse a Hotel Amaru y/o Hotel Spa Las Taguas a través de códigos QR.<br /> Inicialmente está desarrollado para ser visualizado en Tablets en contextos de ferias turísticas y equivalentes.
-    *   [Enlace al Repositorio](https://github.com/JorgeCardenasY/DyM/) | [Enlace a la DemO](https://jorgecardenasy.github.io/DyM/)
+    *   [Enlace al Repositorio](https://github.com/JorgeCardenasY/DyM/) | [Enlace a la Demo](https://jorgecardenasy.github.io/DyM/)
 
 *   **Aplicación Web con Django e integración PostgreSQL.**
     *   Este portafolio es una aplicación web construida con Django, que permite a los usuarios registrarse, autenticarse y exhibir sus proyectos. El backend, en Python, utiliza SQLite para desarrollo y la librería Pillow para gestionar imágenes. El frontend emplea las plantillas de Django, se estiliza con Tailwind CSS para una interfaz responsiva y usa JavaScript vanilla para la interactividad. La seguridad es prioritaria, aprovechando las protecciones nativas de Django: middleware contra CSRF y clickjacking, un sistema robusto de autenticación que hashea contraseñas, validadores para garantizar contraseñas robustas y cabeceras de seguridad HTTP. La clave secreta se gestiona como variable de entorno en producción.
-    *   [Enlace al Repositorio](https://github.com/JorgeCardenasY/M6_PORTFOLIO) | [Enlace a la Demo (si aplica)](https://github.com/JorgeCardenasY/M6_PORTFOLIO/blob/main/README.md)
+    *   [Enlace al Repositorio](https://github.com/JorgeCardenasY/M6_PORTFOLIO) 
 
 ---
 
@@ -51,4 +51,4 @@ Mi stack tecnológico incluye, pero no se limita a:
 
 ¡Gracias por visitar mi perfil! No dudes en contactarme si tienes alguna pregunta o quieres colaborar.
 
-[Tu Enlace de LinkedIn](https://www.linkedin.com/in/tu_usuario/) | [Tu Correo Electrónico](mailto:tu.correo@example.com)
+[Perfil LinkedIn](https://www.linkedin.com/in/tu_usuario/)  | [Perfil GitHub](https://github.com/JorgeCardenasY/)  |  [Correo](mailto:contacto@elabs.cl)
