@@ -1,4 +1,4 @@
-![Header Personalizado Tecnología Nodos](static/img/header.jpg)
+![Header Personalizado Tecnología Nodos](CV/static/img/header.jpg)
 
 # ¡Hola! Soy Jorge Cárdenas Yañez 
 
