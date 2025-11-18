@@ -73,17 +73,21 @@ body {
 }
 
 /* Estilos responsivos para imágenes del README */
-.card-body img {
-  max-width: 100%;
-  height: auto;
+.contenido .card-body img {
+  max-width: 100% !important;
+  height: auto !important;
   display: block;
   margin: 0 auto;
-}
-
-/* Estilos específicos para imágenes dentro del contenido del README */
-.contenido .card-body img {
-  max-width: 100%;
-  height: auto;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(255, 87, 51, 0.2);
+}
+
+/* Estilos adicionales para asegurar que las imágenes no se salgan */
+.contenido .card-body * {
+  max-width: 100%;
+}
+
+/* Estilo específico para el contenedor del README */
+.contenido .card-body {
+  overflow: hidden;
 }
