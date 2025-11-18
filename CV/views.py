@@ -1,5 +1,6 @@
 from django.shortcuts import render, redirect
 from .forms import ContactForm
+import markdown
 
 def index(request):
     return render(request, 'index.html')
@@ -22,3 +23,9 @@ def proyectos(request):
 
 def confirmation(request):
     return render(request, 'confirmation.html')
+
+def readme(request):
+    with open('README.md', 'r') as f:
+        readme_content = f.read()
+    readme_html = markdown.markdown(readme_content)
+    return render(request, 'readme.html', {'readme_html': readme_html})

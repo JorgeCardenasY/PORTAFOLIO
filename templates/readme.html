@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+
+{% block title %}README - Portafolio{% endblock %}
+
+{% block content %}
+<div class="container contenido">
+    <div class="row justify-content-center">
+        <div class="col-12">
+            <div class="card border-danger">
+                <div class="card-header text-center py-4">
+                    <h4 class="card-title mb-0 text-danger">README.md</h4>
+                </div>
+                <div class="card-body text-white">
+                    {{ readme_html|safe }}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
