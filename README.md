@@ -10,17 +10,17 @@
 
 Aquí le presento algunos de los proyectos en los que he trabajado y de los que estoy más orgulloso:
 
-*   **[Nombre del Proyecto 1]**
-    *   Breve descripción del proyecto.
-    *   [Enlace al Repositorio](https://github.com/tu_usuario/proyecto1) | [Enlace a la Demo (si aplica)](https://proyecto1.vercel.app)
+*   **Script para la Obtención de Datos abiertos de MercadoPúblico**
+    *   Este proyecto es un desarrollo en Python que accede a los datos abiertos de MercadoPúblico y descarga datos en formato ZIP correspondientes a Licitaciones, Compras Ágiles y Órdenes de Compra en un rango de años y meses seleccionados. Cada descarga es descromprimida a CSV según su tipo (Licitaciones, Compras Ágiles y Órdenes de Compra). Alternativamente, se puede cargar estos datos a una base de datos PostgreSQL.<br /> En un proceso ETL correspondería a la fase de extracción de datos para su ingesta, transformación y análisis.
+    *   [Enlace al Repositorio](https://github.com/JorgeCardenasY/datos_Mercado_Publico) | [Enlace a la Demo (si aplica)](https://github.com/JorgeCardenasY/datos_Mercado_Publico/blob/main/README.md)
 
-*   **[Nombre del Proyecto 2]**
-    *   Breve descripción del proyecto.
-    *   [Enlace al Repositorio](https://github.com/tu_usuario/proyecto2) | [Enlace a la Demo (si aplica)](https://proyecto2.vercel.app)
+*   **Web HTML para la promoción de Hoteles de Cliente de Arica**
+    *   Este proyecto es un desarrollo en HTMl, el cual Landing page que permite redirigirse a Hotel Amaru y/o Hotel Spa Las Taguas a través de códigos QR.<br /> Inicialmente está desarrollado para ser visualizado en Tablets en contextos de ferias turísticas y equivalentes.
+    *   [Enlace al Repositorio](https://jorgecardenasy.github.io/DyM/) | [Enlace a la Demo (si aplica)](https://github.com/JorgeCardenasY/DyM/blob/main/README.md)
 
-*   **[Nombre del Proyecto 3]**
-    *   Breve descripción del proyecto.
-    *   [Enlace al Repositorio](https://github.com/tu_usuario/proyecto3) | [Enlace a la Demo (si aplica)](https://proyecto3.vercel.app)
+*   **Aplicación Web con Django e integración PostgreSQL.**
+    *   Este portafolio es una aplicación web construida con Django, que permite a los usuarios registrarse, autenticarse y exhibir sus proyectos. El backend, en Python, utiliza SQLite para desarrollo y la librería Pillow para gestionar imágenes. El frontend emplea las plantillas de Django, se estiliza con Tailwind CSS para una interfaz responsiva y usa JavaScript vanilla para la interactividad. La seguridad es prioritaria, aprovechando las protecciones nativas de Django: middleware contra CSRF y clickjacking, un sistema robusto de autenticación que hashea contraseñas, validadores para garantizar contraseñas robustas y cabeceras de seguridad HTTP. La clave secreta se gestiona como variable de entorno en producción.
+    *   [Enlace al Repositorio](https://github.com/JorgeCardenasY/M6_PORTFOLIO) | [Enlace a la Demo (si aplica)](https://github.com/JorgeCardenasY/M6_PORTFOLIO/blob/main/README.md)
 
 ---
 
