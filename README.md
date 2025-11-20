@@ -51,4 +51,4 @@ Mi stack tecnológico incluye, pero no se limita a:
 
 ¡Gracias por visitar mi perfil! No dudes en contactarme si tienes alguna pregunta o quieres colaborar.
 
-[Perfil LinkedIn](https://www.linkedin.com/in/tu_usuario/)  | [Perfil GitHub](https://github.com/JorgeCardenasY/)  |  [Correo](mailto:contacto@elabs.cl)
+[Perfil LinkedIn](https://www.linkedin.com/in/jorgecardenasy/)  | [Perfil GitHub](https://github.com/JorgeCardenasY/)  |  [Correo](mailto:contacto@elabs.cl)
