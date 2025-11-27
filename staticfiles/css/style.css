@@ -1,0 +1,93 @@
+body {
+  background-color: #000000;
+  margin: 0;
+  padding: 0;
+  font-family: Arial;
+  overflow-x: hidden;
+}
+
+#particles-js {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
+
+.contenido {
+  position: relative;
+  z-index: 1;
+  padding-top: 20px;
+}
+
+.navbar {
+  z-index: 1000;
+}
+
+.card {
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+
+.card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 10px 20px rgba(255, 87, 51, 0.3);
+}
+
+
+
+.card-header {
+  background-color: rgba(0, 0, 0, 0.5);
+  border-bottom: 1px solid #ff5733;
+
+}
+
+.btn-danger {
+  color: #000000;
+  background-color: #ff5733;
+  border-color: #000000;
+  transition: background-color 0.3s ease;
+
+}
+
+.btn-danger:hover {
+  background-color: #ff1a00;
+  border-color: #000000;
+}
+
+.icon-wrapper i {
+  font-size: 2.5rem;
+  color: #ff5733;
+}
+
+.navbar-brand span.display-1 {
+  color: rgb(59, 160, 46);
+}
+
+.glow-effect:hover {
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #ff5733, 0 0 20px #ff5733, 0 0 25px #ff5733, 0 0 30px #ff5733, 0 0 35px #ff5733;
+}
+
+/* Estilos responsivos para imágenes del README */
+.contenido .card-body img {
+  max-width: 100% !important;
+  height: auto !important;
+  display: block;
+  margin: 0 auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(255, 87, 51, 0.2);
+}
+
+/* Estilos adicionales para asegurar que las imágenes no se salgan */
+.contenido .card-body * {
+  max-width: 100%;
+}
+
+/* Estilo específico para el contenedor del README */
+.contenido .card-body {
+  overflow: hidden;
+}
